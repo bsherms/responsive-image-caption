@@ -60,7 +60,14 @@ p {
 
   figcaption {
     position: absolute;
-
+    bottom: 20px;
+    right: 20px;
+    background-color: rgba(0, 0, 0, .3);
+    color: #fff;
+    margin: 1em;
+    padding: 20px;
+    max-width: 20em;
+    border-radius: 8px;
   }
 
 }
